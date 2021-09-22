@@ -1,7 +1,7 @@
 package test1;
 
 public class Location {
-
+//comment
 	public final String EAST = "East";
 	private String currentLocation = "Foyer";
 	
